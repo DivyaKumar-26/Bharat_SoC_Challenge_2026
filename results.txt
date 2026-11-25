@@ -1,0 +1,1 @@
+image AUROC=1.0000  n=83  recall@thr=0.873  FPR@thr=0.000  latency median=273.7 ms (this machine, CPU, batch 1)

@@ -1,0 +1,2 @@
+Downloading: "https://download.pytorch.org/models/resnet18-f37072fd.pth" to C:\Users\divyk/.cache\torch\hub\checkpoints\resnet18-f37072fd.pth
+bank (20000, 384)  thr=2.713 (q=0.99, n_cal=41)  classes=[]
